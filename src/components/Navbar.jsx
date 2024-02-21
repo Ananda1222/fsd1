@@ -12,8 +12,9 @@ const Navbar = () => {
                 </Button>
                 <Button>
                 <Link to ='/sign' style={{color:'white'}} >Signup</Link>
-                  
+                <Link to='/a' Style={{color:'white'}}>GridGet</Link>
                 </Button>
+                
 
             </Toolbar>
         </AppBar>
